@@ -115,7 +115,7 @@ I am particularly interested in roles where **marketing, data, technology and re
 
 ## 🔗 Connect With Me
 
-* LinkedIn: [Add your LinkedIn URL]
+* LinkedIn: https://www.linkedin.com/in/manojkumar-rathinavel-1683a775/
 * Portfolio: Coming soon
 * GitHub: You're here!
 
